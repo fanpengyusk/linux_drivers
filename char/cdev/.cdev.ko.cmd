@@ -1,1 +1,0 @@
-cmd_/home/taxuewuhen/project/x4412/drivers/char/cdev/cdev.ko := arm-linux-ld -EL -r  -T /home/taxuewuhen/project/x4412/src/kernel/scripts/module-common.lds --build-id  -o /home/taxuewuhen/project/x4412/drivers/char/cdev/cdev.ko /home/taxuewuhen/project/x4412/drivers/char/cdev/cdev.o /home/taxuewuhen/project/x4412/drivers/char/cdev/cdev.mod.o

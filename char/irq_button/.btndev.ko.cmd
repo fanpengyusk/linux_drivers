@@ -1,1 +1,0 @@
-cmd_/home/taxuewuhen/project/x4412/drivers/char/irq_button/btndev.ko := arm-linux-ld -EL -r  -T /home/taxuewuhen/project/x4412/src/kernel/scripts/module-common.lds --build-id  -o /home/taxuewuhen/project/x4412/drivers/char/irq_button/btndev.ko /home/taxuewuhen/project/x4412/drivers/char/irq_button/btndev.o /home/taxuewuhen/project/x4412/drivers/char/irq_button/btndev.mod.o
