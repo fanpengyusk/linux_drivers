@@ -1,0 +1,1 @@
+cmd_/home/taxuewuhen/project/x4412/drivers/char/globalfifo/memdev.ko := arm-linux-ld -EL -r  -T /home/taxuewuhen/project/x4412/src/kernel/scripts/module-common.lds --build-id  -o /home/taxuewuhen/project/x4412/drivers/char/globalfifo/memdev.ko /home/taxuewuhen/project/x4412/drivers/char/globalfifo/memdev.o /home/taxuewuhen/project/x4412/drivers/char/globalfifo/memdev.mod.o
